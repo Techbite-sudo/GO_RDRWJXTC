@@ -1,0 +1,20 @@
+{
+    
+    "catlog_nodes":[
+        {
+            "product_id":"id1",
+            "product_name":"Sugar",
+            "quantity":150
+        },
+        {
+            "product_id":"id2",
+            "product_name":"Detergent",
+            "quantity":300
+        },
+        {
+            "product_id":"id3",
+            "product_name":"Unga",
+            "quantity":250
+        }
+    ]
+}

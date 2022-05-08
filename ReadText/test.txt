@@ -1,0 +1,4 @@
+If you decide to install via the traditional method, 
+then there are a couple of dependencies that you need 
+before you can install it on Ubuntu. It’s not a big deal. 
+Open up your terminal and enter in the following command to get what you need:
